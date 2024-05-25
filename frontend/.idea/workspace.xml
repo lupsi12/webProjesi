@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e61039-6c0c-4925-a4ae-f832949bb77c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/styles/Admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/User.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Admin.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Admin.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Login.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Register.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/User.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/User.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +29,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "development",
-    "last_opened_file_path": "/Users/user/Desktop/web__/frontend/src",
+    "last_opened_file_path": "/Users/user/Desktop/webProjesi/frontend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,6 +54,7 @@
       <updated>1716635218316</updated>
       <workItem from="1716635220172" duration="27000" />
       <workItem from="1716646286053" duration="637000" />
+      <workItem from="1716655883732" duration="77000" />
     </task>
     <servers />
   </component>
