@@ -1,4 +1,4 @@
-import "../../styles/Header.css"; // CSS dosyasını import ediyoruz
+import "../../Styles/Header.css"; // CSS dosyasını import ediyoruz
 import React from "react";
 
 const Header = () => {

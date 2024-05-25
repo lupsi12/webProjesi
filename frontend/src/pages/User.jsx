@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import Layout from "../components/Layout/Layout";
-import "../styles/User.css";
+import "../Styles/User.css";
 import Cookies from 'js-cookie';
 import Divider from '@mui/material/Divider';
 import { useNavigate } from 'react-router-dom';

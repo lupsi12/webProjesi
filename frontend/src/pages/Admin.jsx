@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import Layout from "../components/Layout/Layout";
-import "../styles/Admin.css";
+import "../Styles/Admin.css";
 import Cookies from 'js-cookie';
 
 const Admin = () => {

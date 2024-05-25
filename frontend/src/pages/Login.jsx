@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Layout from "../components/Layout/Layout";
-import "../styles/Login.css"; // CSS dosyasını import ediyoruz
+import "../Styles/Login.css"; // CSS dosyasını import ediyoruz
 import Cookies from 'js-cookie';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
