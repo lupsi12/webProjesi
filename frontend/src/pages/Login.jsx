@@ -7,6 +7,7 @@ import { useNavigate } from 'react-router-dom';
 
 const Login = () => {
 
+    console.log("Login from both local and remote branches");
     const navigate = useNavigate();
 
     const [username, setUsername] = useState("");
