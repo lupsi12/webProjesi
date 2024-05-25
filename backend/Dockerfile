@@ -25,4 +25,4 @@ COPY . .
 RUN mvn clean package -DskipTests
 
 # Run the application
-CMD ["java", "-jar", "target/web_proje-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/backend-0.0.1-SNAPSHOT.jar"]
