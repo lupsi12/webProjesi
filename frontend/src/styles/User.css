@@ -1,0 +1,93 @@
+/* styles/User.css */
+.userContainer {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.userTitle {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.userList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.userListItem {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+    margin-bottom: 10px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.userListItem:last-child {
+    border-bottom: none;
+}
+
+.userListItem p {
+    margin: 5px 0;
+}
+
+.commentForm {
+    display: flex;
+    flex-direction: column;
+}
+.commentFormGroup {
+    margin-bottom: 15px;
+}
+
+.commentInput {
+    flex-grow: 1;
+    margin-right: 10px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.commentButton {
+    padding: 10px 15px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.commentButton:hover {
+    background-color: #005bb5;
+}
+.commentContainer {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    transition: all 0.3s ease;
+}
+
+.commentContainer:hover {
+    background-color: #f5f5f5; /* Arka plan rengi değişir */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Gölgelendirme efekti eklenir */
+}
+
+.commentContainer p {
+    margin: 0;
+}
+
+.commentContainer p:first-child {
+    margin-bottom: 5px; /* İlk paragrafın alt boşluğu azaltılır */
+}
+
+.commentContainer p:last-child {
+    margin-top: 5px; /* Son paragrafın üst boşluğu azaltılır */
+}
+
+.Divider {
+    margin-top: 10px; /* Divider bileşeninin üst boşluğu ayarlanır */
+}
