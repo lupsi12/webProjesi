@@ -57,35 +57,35 @@ Projeyi yerel geliştirme ortamınızda başlatmak ve çalıştırmak için aşa
 ### Kayıt Olma Ekranı
 Kullanıcılar bu ekrandan sisteme kayıt olabilirler. Kullanıcı adı, e-posta, şifre ve rol bilgileri girilerek yeni bir kullanıcı hesabı oluşturulabilir.
 
-<img src="https://github.com/Merveziya/webfrontend/assets/108355676/2be382c4-0a24-4431-8f93-29f12748211d" width="600">
+<img src="https://github.com/Merveziya/Trasure_Game/assets/108355676/f923033a-7248-484b-a738-7e2aa89e98d4" width="600">
 
 ### Giriş Ekranı
 Kullanıcılar, sistemde kayıtlı bilgileri ile bu ekrandan giriş yapabilirler.
 
-<img src="https://github.com/Merveziya/webfrontend/assets/108355676/760e761a-192a-4607-8a00-d789710e1d3b" width="600">
+<img src="https://github.com/Merveziya/Trasure_Game/assets/108355676/559deb43-86fc-4f26-a2b4-c99ad8cf3b39" width="600">
 
 ### Admin Ekranı
 Sistem yöneticilerinin kayıtlı tüm kullanıcıların bilgilerini görüntülemesine ve yönetmesine olanak tanır.
 
-<img src="https://github.com/Merveziya/webfrontend/assets/108355676/b58462ed-6803-40d5-80c2-48bec6daa39c" width="600">
+<img src="https://github.com/Merveziya/Trasure_Game/assets/108355676/7dc0da2e-b280-4c1d-96d6-9fe40d63cac6" width="600">
 
 ### Çerezlerin Yönetimi
 Çerezler, kullanıcı tercihlerini kaydetmek ve oturum bilgilerini güvenli bir şekilde yönetmek için kullanılmıştır.
 
-<img src="https://github.com/Merveziya/webfrontend/assets/108355676/a1f0f43f-3afc-4e3d-b460-f6024eff1c53" width="600">
+<img src="https://github.com/Merveziya/Trasure_Game/assets/108355676/5b4c7954-8d7b-43d7-b1c6-6a5b6a6ee46f" width="600">
 
 ### Postman Kullanıcı Sorgulama (E-posta ile)
  Kullanıcı, e-posta adresi kullanılarak sorgulanır ve kullanıcı bilgileri başarılı bir şekilde döndürülür.
 
- <img src="https://github.com/Merveziya/webfrontend/assets/108355676/2a74853c-c520-4190-a999-1150df654516" width="600">
+ <img src="https://github.com/Merveziya/Trasure_Game/assets/108355676/6721fad3-6f80-4dca-8726-3f8918afb8d6" width="600">
 
 ### Postman Kullanıcı Sorgulama (ID ile)
 Kullanıcı ID'si kullanılarak yapılan sorgu sonucu, belirtilen kullanıcının detayları başarıyla getirilir.
 
- <img src="https://github.com/Merveziya/webfrontend/assets/108355676/cb41889b-c1db-4ecf-883e-4fd7963c0651" width="600">
+ <img src="https://github.com/Merveziya/Trasure_Game/assets/108355676/83dcdba1-072e-4584-b019-2fc9b2592bbe" width="600">
 
 ### Postman Kullanıcı Bilgi Güncelleme
 Belirli bir kullanıcının yorum bilgileri güncellenir ve işlem başarılı bir şekilde tamamlanır.
 
- <img src="https://github.com/Merveziya/webfrontend/assets/108355676/0276bd67-1d30-43e3-9837-75ab3200ef2f" width="600">
+ <img src="https://github.com/Merveziya/Trasure_Game/assets/108355676/8d17e8a3-6023-42a5-8d52-c422ca15fd26" width="600">
 
